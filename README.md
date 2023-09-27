@@ -1,5 +1,5 @@
 # Digital-Electronics-IUST
-My solutions to IUST's Digital Electronics, Spring 2022, Dr. Fazeli.
+My solutions to IUST's Digital Electronics, Fall 2021, Dr. Fazeli.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Final Exam
 ### Questions and Theory Answers
